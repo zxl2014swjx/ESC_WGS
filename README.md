@@ -1,2 +1,2 @@
 # ESC_WGS
-The pipeline and analysis codes of low-depth WGS of ESC
+The pipeline and analysis codes of low depths whole genome sequence (WGS) of esophageal cancer (ESC)
