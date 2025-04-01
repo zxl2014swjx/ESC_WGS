@@ -22,7 +22,7 @@ The DELLY was used to detect SVs.
 The GeneFuse was used to call gene fuse events.
 
 
-**The Strelka was used to call somatic mutations.**
+**The Strelka was used to detect somatic mutations.**
 
 **The chromothripsis was detected by ShatterProff.**
 
