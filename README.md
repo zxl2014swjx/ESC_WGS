@@ -17,6 +17,8 @@ The Gistic was used to detect the significant fragment of CNVs.
 
 The Meerkat was used to detect SVs.
 
+The DELLY was used to detect SVs.
+
 The GeneFuse was used to call gene fuse events.
 
 
