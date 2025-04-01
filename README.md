@@ -1,49 +1,25 @@
 The pipeline and analysis codes of low depths whole genome sequence (WGS) for 28 esophageal cancer (ESC) samples.
 
 
-**The copy number variations (CNV) were detected utilizing GATK following steps below:**
+**copy number variations (CNV)**
 
-step_1_get_tumor_readcont
+The GATK was used to detect CNVs.
 
-step_2_getPON
+The ichorCNA was used to calculated the ploidy of tumor samples.
 
-step_3_get_DenoiseReadCounts
+The Facets was used to call fragment variations.
 
-step_4_PlotDenoisedCopyRatios
+The Control-FREEC was used to call CNVs.
 
-step_5_get_allelic_work
+**Structure variations (SV)**
 
-step_6_ModelSegments
-
-step_7_CallCopyRatioSegments
-
-step_8_PlotModeledSegments
-
-**The structure variations (SV) were detected utilizing Meerkat following steps below:**
-
-step1_pre_process
-
-step2_meerkat
-
-step3_mechanism
-
-step4_somatic_filting
-
-step 5 germline_calling
-
-step_6 annotation
-
-step_7 transform2vcf
-
-step_8 Calculate allele frequency
-
-**The GeneFuse was used to call gene fuse events.**
+The Meerkat was used to detect SVs.
+The GeneFuse was used to call gene fuse events.
 
 **The Strelka was used to call somatic mutations.**
 
-**The ichorCNA was used to calculated the ploidy of tumor samples.**
 
-**The Facets was used to call fragment variations.**
+
 
 **Email:** zxl2014swjx@126.com / zhuxiuli@big.ac.cn
 
