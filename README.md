@@ -38,8 +38,11 @@ step_7 transform2vcf
 step_8 Calculate allele frequency
 
 **The GeneFuse was employed to call gene fuse events.**
+
 **The Strelka was utilized to call somatic mutations.**
+
 **The ichorCNA was used to calculated the ploidy of tumor samples.**
+
 **The Facets was used to call fragment variations.**
 
 **Email:** zxl2014swjx@126.com / zhuxiuli@big.ac.cn
