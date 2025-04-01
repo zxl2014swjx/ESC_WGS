@@ -24,6 +24,7 @@ The GeneFuse was used to call gene fuse events.
 
 **The Strelka was used to call somatic mutations.**
 
+**The chromothripsis was detected by ShatterProff.**
 
 **Email:** zxl2014swjx@126.com / zhuxiuli@big.ac.cn
 
