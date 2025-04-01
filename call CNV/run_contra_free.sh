@@ -1,0 +1,14 @@
+bash contra.EL12.sh
+bash contra.E52.sh
+bash contra.E21.sh
+bash contra.EL18.sh
+bash contra.E43.sh
+bash contra.EL29.sh
+bash contra.E53.sh
+bash contra.E25.sh
+bash contra.EL19.sh
+bash contra.E44.sh
+bash contra.EL16.sh
+bash contra.EL08.sh
+bash contra.EL07.sh
+bash contra.EL26.sh
