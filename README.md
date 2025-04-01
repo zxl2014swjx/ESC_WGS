@@ -2,6 +2,7 @@ The pipeline and analysis codes of low depths whole genome sequence (WGS) for 28
 
 
 **The copy number variations (CNV) were detected utilizing GATK following steps below:**
+
 step_1_get_tumor_readcont
 
 step_2_getPON
@@ -19,6 +20,7 @@ step_7_CallCopyRatioSegments
 step_8_PlotModeledSegments
 
 **The structure variations (SV) were detected utilizing Meerkat following steps below:**
+
 step1_pre_process
 
 step2_meerkat
@@ -40,7 +42,7 @@ step_8 Calculate allele frequency
 **The ichorCNA was used to calculated the ploidy of tumor samples.**
 **The Facets was used to call fragment variations.**
 
-**Email** zxl2014swjx@126.com / zhuxiuli@big.ac.cn
+**Email:** zxl2014swjx@126.com / zhuxiuli@big.ac.cn
 
 
 
