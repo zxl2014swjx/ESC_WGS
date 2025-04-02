@@ -1,0 +1,3 @@
+
+samtools mpileup -f /mnt/X500/farmers/suyao/NL200/tools/BNC/BNC/program/NoahCare/db/alignment/tgp_phase2_flat/hs37d5.fa -q 20 -Q 20 -B -C 50 /mnt/X500/farmers/zhuxl/Project/ESC_Cheng_WGS/13_normal_bam/Tumor/recaled.bam > /mnt/X500/farmers/zhuxl/Project/ESC_Cheng_WGS/13_normal_analysis/Tumor/Contra/Tumor_case_sort_markdup_recald.mpileup 
+samtools mpileup -f /mnt/X500/farmers/suyao/NL200/tools/BNC/BNC/program/NoahCare/db/alignment/tgp_phase2_flat/hs37d5.fa -q 20 -Q 20 -B -C 50 /mnt/X500/farmers/zhuxl/Project/ESC_Cheng_WGS/13_normal_bam/Normal/recaled.bam > /mnt/X500/farmers/zhuxl/Project/ESC_Cheng_WGS/13_normal_analysis/Tumor/Contra/Normal_normal_sort_markdup_recald.mpileup 
