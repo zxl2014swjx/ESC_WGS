@@ -1,0 +1,15 @@
+#sh cal_ichorCNA.sh /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/E11TD/recaled.bam /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/E11ND/recaled.bam E11TD E11ND E11TD_E11ND
+sh cal_ichorCNA.sh /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/E21TD/recaled.bam /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/E21ND/recaled.bam E21TD E21ND E21TD_E21ND
+sh cal_ichorCNA.sh /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/E25TD/recaled.bam /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/E25ND/recaled.bam E25TD E25ND E25TD_E25ND
+sh cal_ichorCNA.sh /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/E43TD/recaled.bam /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/E43ND/recaled.bam E43TD E43ND E43TD_E43ND
+sh cal_ichorCNA.sh /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/E44TD/recaled.bam /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/E44ND/recaled.bam E44TD E44ND E44TD_E44ND
+sh cal_ichorCNA.sh /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/E52TD/recaled.bam /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/E52ND/recaled.bam E52TD E52ND E52TD_E52ND
+sh cal_ichorCNA.sh /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/E53TD/recaled.bam /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/E53ND/recaled.bam E53TD E53ND E53TD_E53ND
+sh cal_ichorCNA.sh /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/EL07TD/recaled.bam /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/EL07ND/recaled.bam EL07TD EL07ND EL07TD_EL07ND
+sh cal_ichorCNA.sh /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/EL08TD/recaled.bam /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/EL08ND/recaled.bam EL08TD EL08ND EL08TD_EL08ND
+sh cal_ichorCNA.sh /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/EL12TD/recaled.bam /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/EL12ND/recaled.bam EL12TD EL12ND EL12TD_EL12ND
+sh cal_ichorCNA.sh /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/EL16TD/recaled.bam /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/EL16ND/recaled.bam EL16TD EL16ND EL16TD_EL16ND
+sh cal_ichorCNA.sh /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/EL18TD/recaled.bam /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/EL18ND/recaled.bam EL18TD EL18ND EL18TD_EL18ND
+sh cal_ichorCNA.sh /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/EL19TD/recaled.bam /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/EL19ND/recaled.bam EL19TD EL19ND EL19TD_EL19ND
+sh cal_ichorCNA.sh /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/EL26TD/recaled.bam /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/EL26ND/recaled.bam EL26TD EL26ND EL26TD_EL26ND
+sh cal_ichorCNA.sh /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/EL29TD/recaled.bam /mnt/X500/farmers/lijun/prj/baijin_ES_cancer_Cheng/01.MP/EL29ND/recaled.bam EL29TD EL29ND EL29TD_EL29ND
