@@ -1,0 +1,1 @@
+/repos/lijun/pip/mp/sentieon/MP4Sentieon /mnt/X500/farmers/zhuxl/Project/ESC_Cheng_WGS/13_normal_fastq/cfg.E1ND /mnt/X500/farmers/zhuxl/Project/ESC_Cheng_WGS/13_normal_fastq/E1ND /mnt/X500/farmers/zhuxl/Project/ESC_Cheng_WGS/13_normal_bam
