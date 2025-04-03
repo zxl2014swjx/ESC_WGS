@@ -1,0 +1,1 @@
+less bam.list |while read a b ; do echo python /mnt/X500/farmers/linhx/bin/software/Meerkat/main_pipe.py $a $b /mnt/X500/farmers/luozw/factory/20190821_15WGS_sv_cnv/$(basename $(dirname $a))_$(basename $(dirname $b)) \> sv.$(basename $(dirname $a))_$(basename $(dirname $b)).sh; done|less |sh
