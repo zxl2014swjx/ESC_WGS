@@ -1,0 +1,1 @@
+gatk PlotDenoisedCopyRatios --standardized-copy-ratios bams_tumor/E11TDrecaled.bam.counts.hdf5_standardizedCR_GCcorrect.tsv --denoised-copy-ratios bams_tumor/E11TDrecaled.bam.counts.hdf5_denoisedCR_GCcorrect.tsv --sequence-dictionary hg19_ref/hs37d5.dict --minimum-contig-length 1000000 --output E11TD_result_onlycnv_GC --output-prefix E11TD

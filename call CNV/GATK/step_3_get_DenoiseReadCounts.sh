@@ -1,0 +1,1 @@
+gatk DenoiseReadCounts -I bams_tumor/E11TDrecaled.bam.counts.hdf5 --count-panel-of-normals cnvponC_GC.pon.hdf5 --standardized-copy-ratios bams_tumor/E11TDrecaled.bam.counts.hdf5_standardizedCR_GCcorrect.tsv  --denoised-copy-ratios bams_tumor/E11TDrecaled.bam.counts.hdf5_denoisedCR_GCcorrect.tsv --annotated-intervals hs37d5.fa.GC.tsv

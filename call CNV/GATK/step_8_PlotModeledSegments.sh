@@ -1,0 +1,1 @@
+gatk PlotModeledSegments --denoised-copy-ratios bams_tumor/E11TDrecaled.bam.counts.hdf5_denoisedCR_GCcorrect.tsv  --segments E11TD_result_onlycnv_GC/E11TD.modelFinal.seg --sequence-dictionary hg19_ref/hs37d5.dict  --minimum-contig-length 1000000 --output E11TD_result_onlycnv_GC/  --output-prefix E11TD
