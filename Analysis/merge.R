@@ -1,0 +1,5 @@
+setwd("/mnt/X500/farmers/zhuxl/Project/ESCC_AnHaiyin_WGS/organised_data")
+cnv_chr<-read.table("cytoband_anno_organised.txt",header=TRUE,sep="\t")
+cnv_gene<-read.table("gene_anno_organised.txt",header=TRUE,sep="\t")
+name<-intersect(colnames(cnv_chr),colnames(cnv_gene))
+cnv<-merge(cnv_chr,cnv_gene,by=name)
