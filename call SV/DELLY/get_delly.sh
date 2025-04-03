@@ -1,0 +1,1 @@
+python /mnt/X500/farmers/linhx/bin/software/Meerkat/main_pipe.py /mnt/X500/farmers/zhuxl/Project/ESC_Cheng_WGS/13_normal_bam/Tumor/recaled.bam /mnt/X500/farmers/zhuxl/Project/ESC_Cheng_WGS/13_normal_bam/Normal/recaled.bam /mnt/X500/farmers/zhuxl/Project/ESC_Cheng_WGS/13_normal_analysis/Tumor/sz_sv >sv.Tumor.sh
